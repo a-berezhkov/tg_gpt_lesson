@@ -1,0 +1,1 @@
+1. Наберите в консоли ```npm install chatgpt```
